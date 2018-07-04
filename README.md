@@ -17,7 +17,7 @@ Nodejs应用密钥管理器
 安装
 
 ```bash
-$ npm i [-g|-S]
+$ npm i [-g|-S] x-secrets
 ```
 
 ## Useage
@@ -25,7 +25,7 @@ $ npm i [-g|-S]
 使用
 
 ```js
-const Secrets = require('Secrets');
+const secrets = require('x-secrets');
 ```
 
 ## License

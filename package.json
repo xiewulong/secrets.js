@@ -1,5 +1,5 @@
 {
-  "name": "Secrets",
+  "name": "x-secrets",
   "version": "0.0.1",
   "description": "Secret keys manager for nodejs",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/xiewulong/secrets.js.git"
   },
   "keywords": [
-    "Secrets",
+    "secrets",
     "keys",
     "manager"
   ],
