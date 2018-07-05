@@ -1,8 +1,9 @@
 {
   "name": "x-secrets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Secret keys manager for nodejs",
   "main": "index.js",
+  "bin": "./bin/secrets.js",
   "scripts": {
     "test": "mocha"
   },
@@ -22,6 +23,9 @@
   },
   "homepage": "https://github.com/xiewulong/secrets.js#readme",
   "dependencies": {
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {
     "mocha": "^5.2.0"
   }
 }
